@@ -2,8 +2,8 @@
 A mobile era corewar game based on the Android platform
 
 Original game introduction:
-http://corewar.co.uk/
-https://en.wikipedia.org/wiki/Core_War
+<br/>http://corewar.co.uk/
+<br/>https://en.wikipedia.org/wiki/Core_War
 
 Game Surface
 ![alt tag](https://github.com/littlebugivy/GRPCoreWar/blob/master/Surface.png)
