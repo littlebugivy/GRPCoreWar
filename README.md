@@ -2,7 +2,7 @@
 A mobile era corewar game based on the Android platform
 
 Android end source code: [CoreWar.zip](https://github.com/littlebugivy/GRPCoreWar/blob/master/CoreWar.zip)  
-Server end source code: [ServerFiles.zip](https://github.com/littlebugivy/GRPCoreWar/blob/master/Server%20Files.zip) 
+Server end source code: [ServerFiles.zip](https://github.com/littlebugivy/GRPCoreWar/blob/master/Server%20Files.zip)  
 Prototype can be viewed: [corewarPrototype_v2.pptx](https://github.com/littlebugivy/GRPCoreWar/blob/master/corewarPrototype_v2.pptx)  
 Introduction to each screen can be viewed: [Corewar_Screenintro.pdf](https://github.com/littlebugivy/GRPCoreWar/blob/master/CoreWar_ScreenIntro.pdf)
 
