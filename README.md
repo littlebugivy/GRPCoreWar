@@ -1,6 +1,11 @@
 # GRPCoreWar
 A mobile era corewar game based on the Android platform
 
+Android end source code: see CoreWar.zip  
+Server end source code: see ServerFiles.zip  
+Prototype can be viewed: corewarPrototype_v2.pptx  
+Introduction to each screen can be viewed: Corewar_Screenintro.pdf  
+
 Original game introduction:
 <br/>http://corewar.co.uk/
 <br/>https://en.wikipedia.org/wiki/Core_War
